@@ -1,3 +1,6 @@
 [submodule "SocialNetworksAndRecommendationSystems"]
 	path = SocialNetworksAndRecommendationSystems
 	url = https://github.com/WronaPatryk/SocialNetworksAndRecommendationSystems.git
+[submodule "Machine Learning/deep_learning/Recurrent Neural Networks/iasr-project"]
+	path = Machine Learning/deep_learning/Recurrent Neural Networks/iasr-project
+	url = https://github.com/WronaPatryk/iasr-project.git
